@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on discord bot
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on frontend projects
+- 👯 I’m looking to collaborate on react/node/ts projects
 - 💬 Ask me about anything!
 - 📫 How to reach me: tigerlymad@gmail.com
-- ⚡ Fun fact: I've got small biceps
 
